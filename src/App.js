@@ -1,8 +1,7 @@
-import "./App.css"
 function App() {
   return (
     <div className="App">
-        Subscribe Zainkeeps code
+      <h1 className="text-3xl font-bold">This is TinkingTin</h1>
     </div>
   );
 }
