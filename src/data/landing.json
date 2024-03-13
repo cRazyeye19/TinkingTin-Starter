@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "title": "Streamline Your Ticketing Process",
+    "paragraph": "TinkingTin simplifies your ticketing process, ensuring smooth organization and efficient workflows. Say goodbye to headaches and hello to hassle-free ticket management."
+  },
+  "About": {
+    "paragraph": "At Team-Bangan, we're passionate about creating solutions that simplify complex tasks. With years of experience in software development and a deep understanding of user needs, we set out to revolutionize ticketing systems. TinkingTin is the culmination of our dedication to providing businesses with a ticketing solution that's intuitive, efficient, and adaptable. Join us on our journey to redefine ticket management.",
+    "Why": [
+      "Expertise",
+      "Innovation",
+      "Accomodation",
+      "Focus"
+    ],
+    "Why2": [
+      "Flexibility",
+      "Reliability",
+      "Customer-Centric",
+      "Integrity"
+    ]
+  },
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "User-Friendly",
+      "text": "Easily create, assign, and track tickets with just a few clicks."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Insightful Analytics",
+      "text": "Gain valuable insights into ticket trends, team performance, and more."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Collaborative Environment",
+      "text": "Foster teamwork and communication with built-in collaboration tools."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Seamless Integration",
+      "text": "TinkingTin with your favorite tools and platforms for enhanced productivity."
+    }
+  ]
+}

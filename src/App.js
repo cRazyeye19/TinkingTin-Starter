@@ -1,7 +1,11 @@
+import User from "./pages/User/User";
+import Landing from "./pages/Landing Page/Landing";
+
 function App() {
   return (
-    <div className="App">
-      <h1 className="text-3xl font-bold">This is TinkingTin</h1>
+    <div>
+      {/* <User /> */}
+      <Landing />
     </div>
   );
 }
